@@ -7,6 +7,10 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import edu.up.tmartinezHw1.R;
 
+/**
+ * @author Talia Martinez
+ */
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
